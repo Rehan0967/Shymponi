@@ -1,1 +1,1 @@
-# Shymponi
+# Sympony
